@@ -27,7 +27,7 @@
     "debug": "4",
     "nan": "^2.13.2",
     "ref": "WelaurS/ref",
-    "ref-struct": "lxe/ref-struct#node-12"
+    "ref-struct": "WelaurS/ref-struct"
   },
   "devDependencies": {
     "fs-extra": "^7.0.1",
